@@ -94,7 +94,6 @@ Through Exploratory Data Analysis (EDA), we extract meaningful patterns from the
     Python (Pandas, NumPy, Matplotlib, Seaborn)
     Jupyter Notebook for EDA
     SQL for data querying
-    Power BI / Tableau for visualization
 
 🚀 How to Use
 
