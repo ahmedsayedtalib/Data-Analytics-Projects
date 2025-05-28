@@ -1,4 +1,4 @@
-**Data Jobs Market Analysis
+**Data Jobs Market Analysis**
 
 📌 Project Overview
 
